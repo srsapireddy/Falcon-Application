@@ -1,5 +1,4 @@
 ## Fall 2022 Hackathon
-## Name: Srinivas Rahul
 ##Title: Falcon Application(Software as a Service)
 
 ## YouTube Link: https://youtu.be/cJ4JHmoTgas
